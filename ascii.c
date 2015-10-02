@@ -16,6 +16,7 @@ loop:
 		i++;
 		goto loop;
 	}
+	return 0;
 }
 
 #undef ASCII_COUNT
